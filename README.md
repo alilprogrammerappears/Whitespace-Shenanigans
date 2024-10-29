@@ -1,2 +1,2 @@
 # Whitespace-Shenanigans
-This is just a collection of programs coded in Whitespace
+This is just a collection of small programs coded in Whitespace
